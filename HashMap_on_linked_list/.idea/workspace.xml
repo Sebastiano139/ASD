@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="HashMap_on_array" targetName="HashMap_on_array" />
+      <config projectName="array_of_hash" targetName="array_of_hash" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,9 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02007a2d-8dff-4d4f-bcfe-4b3762d0c846" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../array_of_hash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array_of_hash/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6a8d130-66a4-4c73-a368-3eb8f0fdd081" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+            <state relative-caret-position="1257">
+              <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -84,7 +82,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="HashMap_on_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HashMap_on_array" TARGET_NAME="HashMap_on_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HashMap_on_array" RUN_TARGET_NAME="HashMap_on_array">
+    <configuration name="array_of_hash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="array_of_hash" TARGET_NAME="array_of_hash" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="array_of_hash" RUN_TARGET_NAME="array_of_hash">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -95,24 +93,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02007a2d-8dff-4d4f-bcfe-4b3762d0c846" name="Default Changelist" comment="" />
-      <created>1554214132468</created>
+      <changelist id="e6a8d130-66a4-4c73-a368-3eb8f0fdd081" name="Default Changelist" comment="" />
+      <created>1554208610287</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554214132468</updated>
-      <workItem from="1554214135031" duration="2931000" />
+      <updated>1554208610287</updated>
+      <workItem from="1554208615689" duration="5509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2931000" />
+    <option name="totallyTimeSpent" value="5509000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11649016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -122,7 +120,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2831424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -142,8 +140,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+        <state relative-caret-position="1257">
+          <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
         </state>
       </provider>
     </entry>
